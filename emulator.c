@@ -1,4 +1,4 @@
-/* Copyright 2016 Marc Volker Dickmann */
+/* Copyright 2016 - 2017 Marc Volker Dickmann */
 /* Project: Emulator */
 #include <stdio.h>
 #include <stdbool.h>
@@ -578,7 +578,7 @@ static void e_tst_tst (void)
 
 int main (int argc, char *argv[])
 {
-	printf ("Emulator v. 0.0.1 A (C) 2016 Marc Volker Dickmann\n\n");
+	printf ("Emulator v. 0.0.1 A (C) 2016 - 2017 Marc Volker Dickmann\n\n");
 	
 	e_tst_counter ();
 	//e_tst_tst ();
